@@ -27,6 +27,7 @@
     "crypto.js": "^1.2.0",
     "encodeurl": "^1.0.2",
     "hmac_sha1": "^0.1.1",
-    "nonce": "^1.0.4"
+    "nonce": "^1.0.4",
+    "nonce-str": "^1.0.1"
   }
 }
