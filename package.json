@@ -1,0 +1,32 @@
+{
+  "name": "twitter-signin-module",
+  "version": "1.0.0",
+  "description": "twitter OAuth sign in module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vverma508/Twitter-SignIn-Module.git"
+  },
+  "keywords": [
+    "twitter",
+    "OAuth",
+    "HMAC-SHA1",
+    "API"
+  ],
+  "author": "Vivek Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vverma508/Twitter-SignIn-Module/issues"
+  },
+  "homepage": "https://github.com/vverma508/Twitter-SignIn-Module#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "crypto.js": "^1.2.0",
+    "encodeurl": "^1.0.2",
+    "hmac_sha1": "^0.1.1",
+    "nonce": "^1.0.4"
+  }
+}
