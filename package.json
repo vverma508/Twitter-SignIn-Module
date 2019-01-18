@@ -23,11 +23,16 @@
   },
   "homepage": "https://github.com/vverma508/Twitter-SignIn-Module#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "crypto-js": "^3.1.9-1",
     "crypto.js": "^1.2.0",
     "encodeurl": "^1.0.2",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
     "hmac_sha1": "^0.1.1",
     "nonce": "^1.0.4",
-    "nonce-str": "^1.0.1"
+    "nonce-str": "^1.0.1",
+    "oauth": "^0.9.15",
+    "request": "^2.88.0"
   }
 }
